@@ -1,6 +1,7 @@
 # CNN-from-Scratch-Numpy
-This is a fully vectorized CNN components repo: Dense, Conv2D, Max Pool and Flatten layers.
-It is tested on Tensorflow's Flower Dataset:
+This is a fully vectorized CNN components repo: Dense, Conv2D, Max Pool and Flatten layers. All components are implmeneted from **scratch** using only the Numpy library.
+It is tested on Tensorflow's Flower Dataset and scores **77.2%** accuracy score!
+The dataset can be found here:
 https://www.tensorflow.org/datasets/catalog/tf_flowers
 
 
