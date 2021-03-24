@@ -10,8 +10,12 @@ They should be placed in the path:
 np_dataset/RGB_64_cleaned_augmented/*
 
 ## Train and Validation Loss 
-![image](https://drive.google.com/uc?export=view&id=1SjLu3h99eUbXCph72ecxAeSsUQD7uwqp)
+![772trvloss](https://user-images.githubusercontent.com/30525304/112376284-ee1d4c00-8cec-11eb-8782-c10eea1804d4.png)
+
 ## Test Accuracy 
-![image2](https://drive.google.com/uc?export=view&id=1SiMjymKWZm23m77Qnw4WSox-4d3QgQmr)
+![772TestACCR](https://user-images.githubusercontent.com/30525304/112376283-ed84b580-8cec-11eb-8468-3a8a73a0b337.png)
+
 ## Correct Classification Rate per Class
-![image3](https://drive.google.com/uc?export=view&id=1SkVJYYV0cHLpwW5RteGvb1YHAWgc4pZa)
+![772CCRN](https://user-images.githubusercontent.com/30525304/112376285-eeb5e280-8cec-11eb-9f60-405b279b36e2.png)
+
+
